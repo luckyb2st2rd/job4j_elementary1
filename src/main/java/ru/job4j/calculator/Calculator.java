@@ -22,9 +22,9 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        Calculator.minus(5, 2);
-        Calculator.div(6, 2);
-        Calculator.plus(1, 2);
-        Calculator.time(4, 2);
+        minus(5, 2);
+        div(6, 2);
+        plus(1, 2);
+        time(4, 2);
     }
 }
